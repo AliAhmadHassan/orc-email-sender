@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcEMail.DAL", "OrcEMail.DAL\OrcEMail.DAL.csproj", "{86AF5990-9858-4962-BC3D-274AE95AFA47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcEMail.BLL", "OrcEMail.BLL\OrcEMail.BLL.csproj", "{9A5AF648-C392-4DA7-8F6C-5A534322FAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcEMail.DTO", "OrcEMail.DTO\OrcEMail.DTO.csproj", "{465C40F7-0219-47E7-B479-31898AD649FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrcEMail.WFApp", "OrcEMail.WFApp\OrcEMail.WFApp.csproj", "{270F6831-8629-408B-9696-2A7307F8D71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AF5990-9858-4962-BC3D-274AE95AFA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AF5990-9858-4962-BC3D-274AE95AFA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AF5990-9858-4962-BC3D-274AE95AFA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AF5990-9858-4962-BC3D-274AE95AFA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5AF648-C392-4DA7-8F6C-5A534322FAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5AF648-C392-4DA7-8F6C-5A534322FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5AF648-C392-4DA7-8F6C-5A534322FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5AF648-C392-4DA7-8F6C-5A534322FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465C40F7-0219-47E7-B479-31898AD649FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465C40F7-0219-47E7-B479-31898AD649FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465C40F7-0219-47E7-B479-31898AD649FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465C40F7-0219-47E7-B479-31898AD649FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270F6831-8629-408B-9696-2A7307F8D71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270F6831-8629-408B-9696-2A7307F8D71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270F6831-8629-408B-9696-2A7307F8D71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270F6831-8629-408B-9696-2A7307F8D71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
